@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Monika</title>
+  <title>MUSAHIDU</title>
   <style>
     * {
       margin: 0;
@@ -209,10 +209,6 @@
 </header>
 
 <div class="tabs">
-  <button class="tab-btn active" data-tab="about">About</button>
-  <button class="tab-btn" data-tab="certificates">Certificates</button>
-  <button class="tab-btn" data-tab="experience">Experience</button>
-  <button class="tab-btn" data-tab="education">Education</button>
   <button class="tab-btn" data-tab="skills">Skills</button>
   <button class="tab-btn" data-tab="projects">Projects</button>
   <button class="tab-btn" data-tab="resume">Resume</button>
@@ -221,12 +217,12 @@
 
 <section id="about" class="active">
   <h2>About Me</h2>
-  <p>I'm a <b>Assistant Professor</b> and technology enthusiast with over 23 years of experience. I help organizations build secure systems and educate others about online safety. I’m passionate about cybersecurity and AI technologies.</p>
+  <p>I'm a <b>IAM SECOND YER BCA STUDENT</b> anD MOHAMED SATHAK COLLAGE OF ATS AND SCIENCE.</p>
 </section>
 
 <section id="education">
   <h2>Education</h2>
-  <p>M.C.A.,M.Phil.,Ph.D(Pursuing)</p>
+  <p>B.C.A(Pursuing)</p>
 </section>
 
 <section id="skills">
@@ -259,9 +255,9 @@
 </section>
 
 <section id="contact">
-  <h2>Contact</h2>
-  <p>Email: <a href="mailto:vignesh@example.com">vignesh@example.com</a></p>
-  <p>Phone: +91-9876543210</p>
+  <h2>7200730845</h2>
+  <p>Email: <a href="mailto:MUSAHIDMJ7@GMAIL.COM">vignesh@example.com</a></p>
+  <p>Phone: +91-7200730845</p>
   <p>Location: Chennai, India</p>
   <div style="margin-top: 1rem;">
     <a href="https://linkedin.com/in/vignesh" target="_blank">LinkedIn</a> |
@@ -298,8 +294,7 @@
 <section id="experience">
   <h2>Experience</h2>
   <ul>
-    <li><b>Assistant Professor</b> – <br> V.V.Vanniaperumal College for women , virudhunagar.</li>
-    <li><b>Assistant Professor</b> –Mohamed Sathak college of arts and science, sholinganallur</li>
+    <li><b>I AM 2ND YER BCA STUDENT</b> –Mohamed Sathak college of arts and science, sholinganallur</li>
       </ul>
 </section>
 
@@ -381,3 +376,4 @@
 </script>
 </body>
 </html>
+
